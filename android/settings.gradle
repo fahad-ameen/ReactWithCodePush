@@ -1,0 +1,3 @@
+rootProject.name = 'webinar'
+
+include ':app'
